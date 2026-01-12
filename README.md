@@ -5,7 +5,7 @@ O projeto sugere criar três grupos de habilidades técnicas, comportamentais e 
 
 ---
 
-# 📚 Habilidade de técnicas
+# 📚 Habilidades de técnicas
 
 - pacote office (WORD, POWER POIMT E EXCEL)
 - LIBREOFFICE
@@ -26,7 +26,7 @@ O projeto sugere criar três grupos de habilidades técnicas, comportamentais e 
 
 ---
 
-# 💭 habilidade criativa 
+# 💭 habilidades criativa 
 
 - Criação de histórias
 - Explicação de conteúdo
