@@ -36,6 +36,6 @@ O projeto sugere criar três grupos de habilidades técnicas, comportamentais e 
 
 # 🌅 Conclusão
 
-Criaria um canal no youtube voltado a estudos na área de humana, consigo ter uma didática boa e sou bom em sintetizar conteúdos grandes e complexos. Um nicho interessante devido a grande quantidade de pessoas que vão está ouvindo o conteúdo, ofereceria um PDF com questões, PDF com resumo, o slide da aula para estudar, um resumo do conteúdo para tornar o canal único e se diferenciar dos concorrentes. Posteriormente, criaria algum curso voltado a Enem e vestibulares ganhando tanto com o YouTube quanto com um curso online para os alunos. 
+O meu planejmento de acordo com minhas habilidades, criaria um canal no youtube voltado a estudos na área de humana, consigo ter uma didática boa e sou bom em sintetizar conteúdos grandes e complexos. Um nicho interessante devido a grande quantidade de pessoas que vão está ouvindo o conteúdo, ofereceria um PDF com questões, PDF com resumo, o slide da aula para estudar, um resumo do conteúdo para tornar o canal único e se diferenciar dos concorrentes. Posteriormente, criaria algum curso voltado a Enem e vestibulares ganhando tanto com o YouTube quanto com um curso online para os alunos. 
 
 
