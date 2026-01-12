@@ -1,6 +1,6 @@
 # Mapa-de-Habilidades-DIO
 
-O projeto sugere criar três grupos de habilidades técnicas, comportamentais e criativas que possam gerar renda, aquelas habilidades que o mercado mecessita.
+O projeto sugere criar três grupos de habilidades técnicas, comportamentais e criativas que possam gerar renda, aquelas habilidades que o mercado necessita.
 
 
 ---
